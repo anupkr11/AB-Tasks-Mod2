@@ -1,5 +1,5 @@
-# AB-MOD1 🚀
-This repository contains all the practice tasks and exercises completed as part of my **AB Training Program (Module 1)**.
+# AB-MOD2 🚀
+This repository contains all the practice tasks and exercises completed as part of my **AB Training Program (Module 2)**.
 
 Each folder represents a different concept or topic covered during the training, focusing on core front-end development using **HTML**, **CSS**, and **JavaScript**.
 
