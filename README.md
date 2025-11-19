@@ -29,6 +29,7 @@ Each folder represents a different concept or topic covered during the training,
 ## 🧩 Technologies Used
 - **HTML5**
 - **CSS3** *(if used in styling)*
+- **TAILWIND CSS**
 - **JavaScript (ES6+)**
 
 ---
