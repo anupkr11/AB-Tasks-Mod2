@@ -24,6 +24,11 @@ Each folder represents a different concept or topic covered during the training,
 - Capturing and processing user input.
 - Preventing default form submission and implementing simple validations.
 
+### 4. **Using Fetch,Axios/**
+- Building and validating HTML forms before sending data with fetch or axios.
+- Capturing user input and converting it to JSON to send in a request body.
+- Preventing default form submission with event.preventDefault() and then sending data using
+
 ---
 
 ## 🧩 Technologies Used
@@ -31,6 +36,7 @@ Each folder represents a different concept or topic covered during the training,
 - **CSS3** *(if used in styling)*
 - **TAILWIND CSS**
 - **JavaScript (ES6+)**
+- **API**
 
 ---
 
